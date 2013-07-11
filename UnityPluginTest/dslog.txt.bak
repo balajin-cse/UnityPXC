@@ -1,0 +1,14 @@
+
+Logging enabled.  RAM log: 0.  File log: 1
+
+DeepSea Software version 7.2.0.0
+Checking for DeepSea boards.
+couldn't find vendorId 0xcddd, deviceId 0x200
+couldn't find vendorId 0x10b5, deviceId 0x9056
+couldn't find vendorId 0x10b5, deviceId 0x86e1
+Found board vendorId 0xcddd, deviceId 0x30e
+DSEnumerate: Found 1 DeepSea devices installed.
+No Tyzx board detected
+DSEnumerate: Found 0 DeepSea devices installed.
+	ERROR: DeepSeaLib: no TYZX hardware detected (28)
+		DeepSeaAPI.cpp; line: 360
